@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">WifiCodes</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Wifi Codes</string>
+    <string name="welcome">Type Your Desired Country Code:</string>
+    <string name="btnOK">Change It!</string>
+    <string name="intro1">Wifi Country Codes Guide:</string>
+    <string name="intro2">To enable channels 1-11, set to JP</string>
+    <string name="intro3">To enable channels 1-13, set to EU</string>
+    <string name="cc">CC</string>
+
+</resources>
